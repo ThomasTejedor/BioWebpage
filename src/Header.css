@@ -1,0 +1,18 @@
+.NavBar-NotScrolled {
+    width: calc(100vw - 10px);
+    background-color: inherit;
+    display: block;
+    position: sticky;
+    top: 0px;
+    padding: 5px;
+}
+
+.NavBar-Scrolled{
+    width: calc(100vw - 10px);
+    background-color:inherit;
+    border-bottom: 1px solid #bdbdbd; 
+    position: sticky;
+    top: 0px;
+    padding: 5px;
+    box-shadow: 0 5px 3px 0 rgba(0,0,0,.1);
+}
